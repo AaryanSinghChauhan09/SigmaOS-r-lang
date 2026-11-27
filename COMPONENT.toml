@@ -1,0 +1,5 @@
+[component]
+name = "SigmaOS-r-lang"
+version = "0.1.0"
+category = "data-science"
+description = "R statistical computing environment for SigmaOS"
